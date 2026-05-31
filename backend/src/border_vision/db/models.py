@@ -27,7 +27,6 @@ class CrossingEvent(Base):
     track_id = Column(Integer, nullable=False)
     timestamp = Column(DateTime, default=datetime.datetime.utcnow)
     direction = Column(String(10), nullable=False)
-    direction = Column(String(10), nullable=False)
     foot_x = Column(Integer, nullable=True)
     foot_y = Column(Integer, nullable=True)
     bag_count = Column(Integer, default=0)

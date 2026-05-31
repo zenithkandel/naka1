@@ -19,5 +19,8 @@ dependencies = [
     "python-multipart>=0.0.6",
 ]
 
+[project.scripts]
+border-vision = "border_vision.main:main"
+
 [tool.setuptools.packages.find]
 where = ["backend/src"]
