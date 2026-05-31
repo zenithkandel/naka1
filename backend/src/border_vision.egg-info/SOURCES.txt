@@ -7,7 +7,12 @@ backend/src/border_vision.egg-info/requires.txt
 backend/src/border_vision.egg-info/top_level.txt
 backend/src/border_vision/__init__.py
 backend/src/border_vision/main.py
+backend/src/border_vision.egg-info/PKG-INFO
 backend/src/border_vision.egg-info/SOURCES.txt
+backend/src/border_vision.egg-info/dependency_links.txt
+backend/src/border_vision.egg-info/entry_points.txt
+backend/src/border_vision.egg-info/requires.txt
+backend/src/border_vision.egg-info/top_level.txt
 backend/src/border_vision/api/__init__.py
 backend/src/border_vision/api/app.py
 backend/src/border_vision/api/routes_events.py
